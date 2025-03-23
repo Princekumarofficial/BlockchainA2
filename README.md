@@ -19,11 +19,8 @@ The assignment involved interacting with the Bitcoin Core daemon in regtest mode
 - **Bitcoin Core Version:** v25.0 (regtest mode)
 - **Programming Language:** Python 3.9
 - **Library:** bitcoinrpc (for interacting with the Bitcoin daemon)
-- **Configuration Parameters:**  
-  - `paytxfee=0.0001`  
-  - `fallbackfee=0.0002`  
-  - `mintxfee=0.00001`  
-  - `txconfirmtarget=1`
+- **Configuration Parameters:**
+- **Credentials are in config.txt file**
 
 ## Transaction Flows and Analysis
 
