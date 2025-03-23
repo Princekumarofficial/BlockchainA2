@@ -1,0 +1,6 @@
+regtest=1
+server=1
+rpcuser=bitcoin
+rpcpassword=bitcoin
+txindex=1
+rpcport=18443
